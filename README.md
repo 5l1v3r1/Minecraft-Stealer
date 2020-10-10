@@ -75,6 +75,7 @@ _admin=call "commands\admin.exe"
 
 ### ♦ 𝙎𝙪𝙥𝙥𝙤𝙧𝙩
 You can get support in our [Discord server](https://discord.gg/bSHG56G)
+
 You can report issues in our discord server and we will fix them as soon as possible 😄
 
 ### Download
