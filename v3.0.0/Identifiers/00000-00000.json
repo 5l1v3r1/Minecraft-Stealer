@@ -16,6 +16,9 @@
         "whitelistedWebsites": "gmail.com, hotmail.com, aol.com",
         "blacklistedWebsites": "mcleaks"
     },
+    "bans":{
+        "blacklisted": "computer#1, computer#2",
+    },
     "paths": {
         "NOTIFIER": "!temp!\\MS\\notifu.exe",
         "DISCORDMSG": "!temp!\\MS\\DiscordMsg.exe"
