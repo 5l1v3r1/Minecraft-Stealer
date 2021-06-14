@@ -1,0 +1,8 @@
+// Blacklist for global application - this will effect all identifiers
+{
+    "version": "3.0.0",
+    "blacklisted": {
+        // "list": "TestersComputer, OtherComputer"
+        "list": ""
+    }
+}
