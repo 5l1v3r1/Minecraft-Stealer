@@ -1,0 +1,23 @@
+{
+    "Token":"00000-00000",
+    "Author": {
+        "name": "Tester#1111",
+        "ID": "509674496760872960"
+    },
+    "direct": "MoopIyZbt3JeMegbWBNADJtFgHn_KI65HMwcVUgN6Dprb1_kk8kT9m3AfZx0EHCkGpFn",
+    "DirectID": 806514823838957618,
+    "settings": {
+        "windowTitle": "default",
+        "scale": "70,30",
+        "accountsFile": "compressed.zip",
+        "notify": true,
+        "whitelist": true,
+        "blacklistAnyway": false,
+        "whitelistedWebsites": "gmail.com, hotmail.com, aol.com",
+        "blacklistedWebsites": "mcleaks"
+    },
+    "paths": {
+        "NOTIFIER": "!temp!\\MS\\notifu.exe",
+        "DISCORDMSG": "!temp!\\MS\\DiscordMsg.exe"
+    }
+}
