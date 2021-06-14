@@ -18,7 +18,7 @@
         "blacklistedWebsites": "mcleaks"
     },
     "bans":{
-        "blacklisted": "computer#1, computer#2",
+        "blacklisted": "computer#1, computer#2"
     },
     "paths": {
         "NOTIFIER": "!temp!\\MS\\notifu.exe",
