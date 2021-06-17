@@ -1,27 +1,21 @@
 {
-    "Token":"00000-00000",
-    "Author": {
-        "name": "Tester",
-        "tag": "1111",
-        "ID": "509674496760872960"
-    },
+    "token":"00000-00000",
     "direct": "MoopIyZbt3JeMegbWBNADJtFgHn_KI65HMwcVUgN6Dprb1_kk8kT9m3AfZx0EHCkGpFn",
-    "DirectNumber": "806514823838957618",
-    "settings": {
-        "windowTitle": "default",
-        "scale": "70,30",
-        "accountsFile": "compressed.zip",
-        "notify": true,
-        "whitelist": true,
-        "blacklistAnyway": false,
-        "whitelistedWebsites": "gmail.com, hotmail.com, aol.com",
-        "blacklistedWebsites": "mcleaks"
+    "DirectNumber": 806514823838957618,
+    "author": {
+        "name": "Tester",
+        "tag": 1111,
+        "ID": 509674496760872960
     },
-    "bans":{
-        "blacklisted": "computer#1, computer#2"
-    },
-    "paths": {
-        "NOTIFIER": "!temp!\\MS\\notifu.exe",
-        "DISCORDMSG": "!temp!\\MS\\DiscordMsg.exe"
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["AGAMSOL"]
+        },
+        "settings": {
+            "windowTitle": "default",
+            "maxAttempts": 5,
+            "notify": true
+        }
     }
 }
