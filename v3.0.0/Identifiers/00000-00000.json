@@ -9,8 +9,8 @@
     },
     "local": {
         "bans":{
-            "list": [""],
-            "bypass": ["AGAMSOL"]
+            "list": ["AGAMSOL"],
+            "bypass": [""]
         },
         "settings": {
             "windowTitle": "default",
