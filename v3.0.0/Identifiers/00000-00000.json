@@ -1,27 +1,23 @@
 {
-    "Token":"00000-00000",
-    "Author": {
+    "token":"00000-00000",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "MoopIyZbt3JeMegbWBNADJtFgHn_KI65HMwcVUgN6Dprb1_kk8kT9m3AfZx0EHCkGpFn",
+    "directID": "806514823838957618",
+    "author": {
         "name": "Tester",
         "tag": "1111",
         "ID": "509674496760872960"
     },
-    "direct": "MoopIyZbt3JeMegbWBNADJtFgHn_KI65HMwcVUgN6Dprb1_kk8kT9m3AfZx0EHCkGpFn",
-    "DirectNumber": "806514823838957618",
-    "settings": {
-        "windowTitle": "default",
-        "scale": "70,30",
-        "accountsFile": "compressed.zip",
-        "notify": true,
-        "whitelist": true,
-        "blacklistAnyway": false,
-        "whitelistedWebsites": "gmail.com, hotmail.com, aol.com",
-        "blacklistedWebsites": "mcleaks"
-    },
-    "bans":{
-        "blacklisted": "computer#1, computer#2"
-    },
-    "paths": {
-        "NOTIFIER": "!temp!\\MS\\notifu.exe",
-        "DISCORDMSG": "!temp!\\MS\\DiscordMsg.exe"
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": [""]
+        },
+        "settings": {
+            "windowTitle": "default",
+            "maxAttempts": "5",
+            "notify": true
+        }
     }
 }
