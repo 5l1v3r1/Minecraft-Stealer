@@ -1,0 +1,23 @@
+{
+    "token":"7SGJC-L85SB",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "ceLxmKbZx3JxIDNFk_m6YqIczKnveSfpcbyfLlP50xBc1bnLhkC_A9V7Uj7oXo4L0SQz",
+    "directID": "799298883363668018",
+    "author": {
+        "name": "Agam",
+        "tag": "0001",
+        "ID": "847284808521351188"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["AGAMSOL"]
+        },
+        "settings": {
+            "windowTitle": "Free Hypixel Rank",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
