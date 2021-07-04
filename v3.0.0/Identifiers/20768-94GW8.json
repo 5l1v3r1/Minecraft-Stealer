@@ -1,0 +1,23 @@
+{
+    "token":"20768-94GW8",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "_zd7yUghDPk01Eaw-9erRC45Cw9IQyH3x8waUOGZGzEDe611vV9v1q7eZKNZPso3wdQN",
+    "directID": "859712271335686146",
+    "author": {
+        "name": "dheb",
+        "tag": "0001",
+        "ID": "659080683800494103"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["dheb"]
+        },
+        "settings": {
+            "windowTitle": "Install wizard 1.9",
+            "maxAttempts": "10",
+            "notify": true
+        }
+    }
+}
