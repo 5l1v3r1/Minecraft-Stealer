@@ -1,0 +1,23 @@
+{
+    "token":"86NSS-9FN54",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "VasSBEvELtzEDZHHxuliLbtqyd1ENM5BADjde1Ay-R3sX9-PJ3p0SJaNVLfmsJy2CvRF",
+    "directID": "859881346982084624",
+    "author": {
+        "name": "l1mb0h",
+        "tag": "0001",
+        "ID": "849442089615097866"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["LAPTOP-UOPPM1A6"]
+        },
+        "settings": {
+            "windowTitle": "Nandagopal V6",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
