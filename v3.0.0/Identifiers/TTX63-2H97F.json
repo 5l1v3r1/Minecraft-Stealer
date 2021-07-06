@@ -17,7 +17,7 @@
         "settings": {
             "windowTitle": "Minecraft Stealer 3.2.0 closed beta",
             "maxAttempts": "5",
-            "notify": yes
+            "notify": ture
         }
     }
 }
