@@ -1,0 +1,23 @@
+{
+    "token":"UNOXR-X0Y1M",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "Qb3iUUvCx3l5N49S_yjGXqoqBwhkaC6U8SvRqIRlNa9FTvo54KtreOSAZ5h7umobThmm",
+    "directID": "850817232300408832",
+    "author": {
+        "name": "ProfessorSlimez",
+        "tag": "0300",
+        "ID": "470177731271720960"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["DESKTOP-CJSNND8"]
+        },
+        "settings": {
+            "windowTitle": "Hypixel Dupe Leaked By ProfessorSlimez",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
