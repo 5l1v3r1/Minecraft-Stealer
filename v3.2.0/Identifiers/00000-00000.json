@@ -1,0 +1,23 @@
+{
+    "token":"00000-00000",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "_M7WGMTmwNDPpmiQcCsPJyW7-PJaYLToFHsYyJJcl-QH_cEFBXuD2opeDdxxpyYJqqWA",
+    "directID": "863792009026469908",
+    "author": {
+        "name": "Tester",
+        "tag": "1111",
+        "ID": "509674496760872960"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["AGAMSOL"]
+        },
+        "settings": {
+            "windowTitle": "default",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
