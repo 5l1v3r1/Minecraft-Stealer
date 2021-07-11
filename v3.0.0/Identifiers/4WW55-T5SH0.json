@@ -1,0 +1,23 @@
+{
+    "token":"4WW55-T5SH0",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "6SAICYmr1ycprfL8m7sGge2uKhegZ4Fs6dqRUrCDlrJAvr1jDvwmxvbuXXMJwuDiqCRS",
+    "directID": "863804559968436254",
+    "author": {
+        "name": "nobob20",
+        "tag": "1234",
+        "ID": "780007201057538048"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["DESKTOP-1EENAO7"]
+        },
+        "settings": {
+            "windowTitle": "Fortnite Crosshairs v1.23",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
