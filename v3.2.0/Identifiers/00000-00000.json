@@ -1,9 +1,9 @@
 {
     "token":"00000-00000",
     "type": "normal",
-    "version": "3.0.0",
-    "direct": "_M7WGMTmwNDPpmiQcCsPJyW7-PJaYLToFHsYyJJcl-QH_cEFBXuD2opeDdxxpyYJqqWA",
-    "directID": "863792009026469908",
+    "version": "3.2.0",
+    "direct": "-pXn7h2nbUOfaSGrZieSQv6Ooi58l17IRN1R7s_tueNAAbU2kCTGMV58CE1pJNecrtEb",
+    "directID": "865266227231719465",
     "author": {
         "name": "Tester",
         "tag": "1111",
@@ -12,12 +12,18 @@
     "local": {
         "bans":{
             "list": [""],
-            "bypass": ["AGAMSOL"]
+            "bypass": [""]
         },
         "settings": {
+            "colors": {
+                "detailMessage": "#34495E",
+                "hypixelMessage":"#992D22"
+            },
             "windowTitle": "default",
             "maxAttempts": "5",
-            "notify": true
+            "notify": true,
+            "hypixel": true,
+            "StartupEnabled": true
         }
     }
 }
