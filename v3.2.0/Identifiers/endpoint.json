@@ -1,0 +1,23 @@
+{
+    "token": "00000-00001",
+    "version": "3.2.0",
+    "direct": "-pXn7h2nbUOfaSGrZieSQv6Ooi58l17IRN1R7s_tueNAAbU2kCTGMV58CE1pJNecrtEb",
+    "directID": "865266227231719465",
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": [""]
+        },
+        "settings": {
+            "colors": {
+                "detailMessage": "#34495E",
+                "hypixelMessage":"#992D22"
+            },
+            "windowTitle": "default",
+            "maxAttempts": "5",
+            "notify": true,
+            "hypixel": true,
+            "StartupEnabled": true
+        }
+    }
+}
