@@ -16,7 +16,7 @@
             "windowTitle": "default",
             "maxAttempts": "5",
             "notify": true,
-            "hypixel": true,
+            "hypixel": false,
             "StartupEnabled": true
         }
     }
