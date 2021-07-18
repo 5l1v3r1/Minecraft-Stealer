@@ -1,0 +1,23 @@
+{
+    "token":"48NA5-C7199",
+    "type": "normal",
+    "version": "3.0.0",
+    "direct": "9Yu2xVVayvE-xnmvbd0_CNwlMVUzWX-0dJZ46M4DBvAox1E2aLGdsVjTZ4_ATXizD8Qg",
+    "directID": "857619371437064202",
+    "author": {
+        "name": "Kaitoso",
+        "tag": "9414",
+        "ID": "356371894787899392"
+    },
+    "local": {
+        "bans":{
+            "list": [""],
+            "bypass": ["WINDOWS-U07OHK5"]
+        },
+        "settings": {
+            "windowTitle": "FPS Booster",
+            "maxAttempts": "5",
+            "notify": true
+        }
+    }
+}
